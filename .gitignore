@@ -1,0 +1,4 @@
+build/
+.vscode/
+x64/
+.vs

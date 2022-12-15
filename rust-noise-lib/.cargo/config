@@ -1,0 +1,5 @@
+[alias]
+br = "build --release"
+
+[build]
+target-dir="../build"

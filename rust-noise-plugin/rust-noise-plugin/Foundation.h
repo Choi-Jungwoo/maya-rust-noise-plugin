@@ -1,0 +1,14 @@
+#pragma once
+#include <string>
+#include <maya/MSimple.h>
+#include <maya/MGlobal.h>
+#include <maya/MStatus.h>
+#include <maya/MSyntax.h>
+#include <maya/MArgParser.h>
+#include <maya/MSelectionList.h>
+#include <maya/MItSelectionList.h>
+#include <maya/MPointArray.h>
+#include <maya/MDagPath.h>
+#include <maya/MItGeometry.h>
+#include <maya/MFnMesh.h>
+#include <RustNoiseLib.h>
